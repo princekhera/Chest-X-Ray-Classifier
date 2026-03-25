@@ -1,7 +1,3 @@
-Here’s a clean, strong README you can drop straight into your repo 👇
-
----
-
 # 🩺 Chest X-ray Classifier (Deep Learning + Web App)
 
 <p align="center">
@@ -214,10 +210,3 @@ It is **not intended for clinical diagnosis** or medical use.
 ## 👤 Author
 
 **Prince Khera**
-
----
-
-If you want, I can also:
-
-* tailor this for a **job application (Data Scientist / Healthcare AI)**
-* or make it more **GitHub-polished with badges + visuals + metrics section**
