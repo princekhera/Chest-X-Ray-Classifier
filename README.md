@@ -67,6 +67,7 @@ dataset/
 
 Images are resized to **224 × 224** and normalized before training.
 
+- 📁 Dataset: [Google Drive](https://drive.google.com/drive/folders/1w280LqeWnrgKFRXC1WpqjvUb6lgjWpZE?usp=sharing)
 ---
 
 ## ⚙️ Installation
@@ -172,16 +173,6 @@ streamlit run app.py
 ```
 
 Then open the Streamlit app in your browser.
-
----
-
-## 🖼️ Demo
-
-Add your demo GIF like this:
-
-```markdown
-![Demo](demo.gif)
-```
 
 ---
 
