@@ -75,7 +75,7 @@ Images are resized to **224 × 224** and normalized before training.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/chest-xray-classifier.git
+git clone https://github.com/princekhera/Chest-X-Ray-Classifier.git
 cd chest-xray-classifier
 ```
 
